@@ -1,7 +1,8 @@
 ---
-title: '"how to publish Obsidian notes with Quartz on Github Pages'
-draft: "false"
+title: "making my own blog"
+draft: false
 tags:
-  - example-tag
+  - test
 ---
 Finally making dailynovice!
+

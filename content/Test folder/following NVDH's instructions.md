@@ -1,8 +1,8 @@
 ---
-title: '"how to publish Obsidian notes with Quartz on Github Pages'
-draft: "false"
+title: following NVDH's instructions
+draft: false
 tags:
-  - example-tag
+  - test
 ---
 Happy to start learning in public and posting online!
 
