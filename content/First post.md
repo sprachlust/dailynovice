@@ -1,6 +1,6 @@
 ---
 title: abcd
-draft: true
+draft: false
 tags:
   - newblog
 ---
