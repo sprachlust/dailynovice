@@ -1,8 +1,13 @@
 ---
-title: Welcome to Quartz
+title: Welcome to the Dailynovice!
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Welcome to the dailynovice.
+Here you'll find my thoughts and notes on remaining a dailynovice.
 
-See [[First post]]
+See below for a high-level directory of which path to take:
+
+- a
+- b
+- c
+
