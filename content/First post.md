@@ -1,9 +1,12 @@
 ---
-title: abcd
+title: Wishlist
 draft: false
 tags:
-  - newblog
+  - 
 ---
 
-Goliath
-The rest of your content lives here. You can use **Markdown** here :)
+This is my public wishlist.
+
+#### HDMI Splitter
+
+
