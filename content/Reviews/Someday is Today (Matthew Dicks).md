@@ -1,5 +1,5 @@
 ---
-title: Review - Matthew Dicks - Someday is Today
+title: Reviewed - Someday is Today (Matthew Dicks)
 draft: false
 obj.title: Someday is Today
 author: Matthew Dicks 
@@ -18,6 +18,21 @@ ratval: 3.7
 tags:
   - review_book
 ---
+
+> [!infobox]
+>  
+> ![[somedayistoday.jpg]]
+> 
+>  
+> |  |  |
+> | --- | --- | 
+> | **Title** | Someday is Today | 
+> | **Author** | Matthew Dicks |
+> | **Genre** | self-help, productivity |
+> | **Publisher** | New World Library |
+> | **Pub Date** | June 7, 2022 |
+> | **Date Read** | Nov 2023, May 2024 |
+> | **Rating** | 3.7 / 5 |
 
 ## Intro
 3-time near death survivor and storyteller extraordinaire's no nonsense guide to stop your excuses and do more of what you need to get done. Filled with short sentences in a conversational style that is very easy to read, and dispenses advice that is borne out by the author's own experimentation and experience. Loved the fact that it is very grounded and contrarian.
