@@ -36,6 +36,7 @@ tags:
 > | **Date watched** | April 2024
 > | **Rating** | 2 / 5
 
+*Review below has SPOILERS. You have been duly warned. Proceed at your own peril.*
 ## Intro
 An utterly forgettable rom-com carried by Jennifer Lawrence. Absent Jennifer Lawrence, I'm afraid this film would already be at the bottom of the sea. A non-starter. The film is about a young woman in her early 30s with daddy issues who sleeps around and invariably ghosts her romantic partners the moment they tell her "I love you". After an incident has her car towed, she tries to figure out how she can get her car back. She and her friends come across an ad in the local paper looking for a 20-something woman who can essentially be a for-hire girlfriend in exchange for a car. Seeing this as her chance to get a car, she applies and discovers that her job is to help the teenage son of a well-off couple "learn the ways of the world" (read: get laid). Hell bent on acquiring the car, she proceeds to seduce the young man and gets to know him better. But he's the very antithesis of the kinds of men she's used to getting in bed with, and well, we all know how the story goes. 
 
