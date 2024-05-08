@@ -1,6 +1,6 @@
 ---
 title: Wishlist
-draft: false
+draft: true
 tags:
   - 
 ---

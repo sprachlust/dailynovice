@@ -7,9 +7,9 @@ You are now standing at the ARCHWAY.
 
 Pick where you want to go.
 
-- a
-- b
-- c
+- [[Tasks for blog]]
+- Reference posts like keyboard shortcuts
+- What I am doing page
 
 ## 📝 Recent notes
 
