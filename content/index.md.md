@@ -7,7 +7,7 @@ You are now standing at the archway.
 
 Pick where you want to go.
 
-- [[Reviews/]]
+- a
 - b
 - c
 
