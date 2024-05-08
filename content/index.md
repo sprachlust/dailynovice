@@ -1,5 +1,5 @@
 ---
-title: 🌲 Archway
+title: index.md
 ---
 
 Welcome to the dailynovice's digital garden.
@@ -13,8 +13,9 @@ Pick where you want to go.
 
 ## 📝 Recent notes
 
-```dataview 
+```dataview
 TABLE
-dateformat(file.mtime, "dd.MM.yyyy HH:mm") AS "Last modified"
-FROM "content" SORT file.mtime DESC LIMIT 10
+dateformat(file.mtime, "yyyy.MM.dd HH:mm") AS "Last modified"
+FROM "content"
 ```
+
