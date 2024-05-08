@@ -1,5 +1,5 @@
 ---
-title: Reviewed - Alan Wake Remastered
+title: Alan Wake Remastered
 draft: false
 obj.title: Someday is Today
 author: Matthew Dicks 

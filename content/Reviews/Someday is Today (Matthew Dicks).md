@@ -1,5 +1,5 @@
 ---
-title: Reviewed - Someday is Today (Matthew Dicks)
+title: Someday is Today (Matthew Dicks)
 draft: false
 obj.title: Someday is Today
 author: Matthew Dicks 
