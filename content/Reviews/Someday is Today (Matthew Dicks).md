@@ -35,7 +35,7 @@ tags:
 > | **Rating** | 3.7 / 5 |
 
 ## Intro
-3-time near death survivor and storyteller extraordinaire's no nonsense guide to stop your excuses and do more of what you need to get done. Filled with short sentences in a conversational style that is very easy to read, and dispenses advice that is borne out by the author's own experimentation and experience. Loved the fact that it is very grounded and contrarian.
+3-time near death survivor and storyteller extraordinaire's no nonsense guide to stop your excuses and do more of what you need to get done. Filled with short sentences in a conversational style that is very easy to read, and dispenses advice that is borne out by the author's own experimentation and experience. Loved the fact that it is very grounded and contrarian. 
 
 My rating: 3.7 out of 5.
 
