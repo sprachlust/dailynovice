@@ -7,6 +7,7 @@ You are now standing at the ARCHWAY.
 
 Pick where you want to go.
 
+- [Reviews](https://dailynovice.com/Reviews/)
 - [[Tasks for blog]]
 - Reference posts like keyboard shortcuts
 - What I am doing page

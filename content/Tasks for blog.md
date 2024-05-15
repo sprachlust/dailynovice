@@ -12,6 +12,8 @@ tags:
 	3. turn off article read time
 3. Figure out way to link to "Reviews" folder
 4. Tweak image size in reviews
+5. System for resurfacing old notes
+	1. https://obsidian.rocks/finding-old-notes-in-obsidian-with-dataview/
 
 
 
