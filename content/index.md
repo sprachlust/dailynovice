@@ -1,5 +1,5 @@
 ---
-title: 🌲 Archway
+title: 🏛️ Archway
 ---
 
 Welcome to the dailynovice's digital garden.
