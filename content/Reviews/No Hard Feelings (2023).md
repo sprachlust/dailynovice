@@ -1,6 +1,5 @@
 ---
 title: 🎬 No Hard Feelings (2023)
-draft: false
 obj.title: No Hard Feelings
 director: Gene Stupnitsky
 genre: romantic comedy

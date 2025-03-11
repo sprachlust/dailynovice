@@ -1,6 +1,5 @@
 ---
 title: 📚 Autobiography of Benjamin Franklin (Himself)
-draft: false
 obj.title: Autobiography of Benjamin Franklin
 author: Benjamin Franklin
 genre: autobiography, memoir

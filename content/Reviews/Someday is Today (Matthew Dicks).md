@@ -1,6 +1,5 @@
 ---
 title: 📚 Someday is Today (Matthew Dicks)
-draft: false
 obj.title: Someday is Today
 author: Matthew Dicks 
 genre: self-help, productivity
