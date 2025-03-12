@@ -19,8 +19,5 @@ Pick where you want to go.
 ## 📝 Recent notes
 
 
-```dataview
-TABLE dateformat(file.mtime, "yyyy.MM.dd HH:mm") AS "Last modified"
-FROM "content" SORT file.mtime DESC LIMIT 10
-```
+```<!-- QueryToSerialize: TABLE dateformat(file.mtime, "yyyy.MM.dd HH:mm") AS "Last modified" FROM "content" SORT file.mtime DESC LIMIT 10 -->```
 
