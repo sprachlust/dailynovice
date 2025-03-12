@@ -15,7 +15,6 @@ Pick where you want to go.
 - What I am doing page
 - [[Areas of interest I am reading about]]
 
-## 
 
 ## 📝 Recent notes
 
