@@ -1,5 +1,5 @@
 ---
-date: 25.03.12
+date: 2025-03-12
 ---
 
 As usually happens, my online meandering has ultimately led to an opportune and most useful discovery.
