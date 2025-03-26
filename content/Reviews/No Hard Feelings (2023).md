@@ -16,7 +16,7 @@ orgval: 2
 cohval: 3
 recval: 2
 ratval: 2
-init_date: 2024.05.06
+date: 2024.05.06
 edit_date: 2024.05.22
 tags:
   - review_film

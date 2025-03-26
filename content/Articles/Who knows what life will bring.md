@@ -1,5 +1,5 @@
 ---
-cdate: 25.03.13
+date: 25.03.13
 ---
 Wrote a few lines on my phone while walking to the convenience store...
 

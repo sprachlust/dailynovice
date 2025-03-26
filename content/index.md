@@ -2,20 +2,14 @@
 title: 🏛️ Archway
 share: "true"
 ---
-
 Welcome to the dailynovice's digital garden.
 You are now standing at the ARCHWAY.
 
-Pick where you want to go.
+Pick where you want to go:
 
 - [[NOW]]
+- [Articles](https://dailynovice.com/Articles/)
 - [Reviews](https://dailynovice.com/Reviews/)
-- [[Tasks for blog]]
-- [[Blog post ideas]]
-- Reference posts like keyboard shortcuts
-- What I am doing page
-- [[Areas of interest I am reading about]]
-
 
 ## 📝 Recent notes
 

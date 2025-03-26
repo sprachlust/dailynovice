@@ -1,5 +1,5 @@
 ---
-cdate: 25.03.14
+date: 25.03.14
 ---
 Today I had just finished filling out the 영업팀 Notion sheet, and as I usually do, I had kept a bit of text at the very bottom of the sheet to be able to move blocks around and possibly to the bottom of the sheet.
 

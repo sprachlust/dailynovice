@@ -1,12 +1,12 @@
 ---
 title: 📚 Someday is Today (Matthew Dicks)
 obj.title: Someday is Today
-author: Matthew Dicks 
+author: Matthew Dicks
 genre: self-help, productivity
 pubdate: 2022.06.07
 publisher: New World Library
 numpages: 344
-readdate: 2023 
+readdate: 2023
 readhow: kindle
 foundhow: strongly recommended by Ali Abdaal
 entval: 3.5
@@ -15,7 +15,7 @@ orgval: 3
 cohval: 4
 recval: 4
 ratval: 3.7
-init_date: 2024.05.06
+date: 2024.05.06
 edit_date: 2024.05.22
 tags:
   - review_book

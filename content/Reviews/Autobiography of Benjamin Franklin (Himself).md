@@ -6,7 +6,7 @@ genre: autobiography, memoir
 pubdate: 1791(French), 1793(English)
 publisher: Buisson(French ed.), J. Parson's (1st English reprint)
 numpages: 135
-readdate: 2023 
+readdate: 2023
 readhow: kindle
 foundhow: randomly chanced upon it on my kindle app when bored and didn't know what to read next. not sure when it was added
 entval: 4
@@ -15,7 +15,7 @@ orgval: 5
 cohval: 3.5
 recval: 4
 ratval: 4.1
-init_date: 2024.05.27
+date: 2024.05.27
 edit_date: 
 tags:
   - review_book
