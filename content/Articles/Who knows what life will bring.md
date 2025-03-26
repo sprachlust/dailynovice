@@ -1,5 +1,6 @@
-25.03.13
-
+---
+cdate: 25.03.13
+---
 Wrote a few lines on my phone while walking to the convenience store...
 
 We know not what these signs portend

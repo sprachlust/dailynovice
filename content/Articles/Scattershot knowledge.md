@@ -1,4 +1,6 @@
-
+---
+cdate: 25.03.26
+---
 We know too much for our own good. 
 Knowledge is power. So the more you know, the better no?
 Well, as it turns out, too much power is morally corrosive.

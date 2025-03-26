@@ -1,4 +1,6 @@
-25.03.14
+---
+cdate: 25.03.14
+---
 Today I had just finished filling out the 영업팀 Notion sheet, and as I usually do, I had kept a bit of text at the very bottom of the sheet to be able to move blocks around and possibly to the bottom of the sheet.
 
 Instead of having `asdf` at the bottom—the most boring placeholder text you can imagine, I know—I wanted to have something that spoke more character, more *curious*. I did some chatting with Gemini and came across *explicitus* and *finis*. The latter definitely jumped out at me, and after cross-referencing it with Perplexity, I decided to go with *finis*. 
