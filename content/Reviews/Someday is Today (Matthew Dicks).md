@@ -15,7 +15,7 @@ orgval: 3
 cohval: 4
 recval: 4
 ratval: 3.7
-date: 2024.05.06
+date: 2024-05-27
 edit_date: 2024.05.22
 tags:
   - review_book
