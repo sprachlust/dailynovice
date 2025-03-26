@@ -1,5 +1,5 @@
 ---
-date: 25.03.26
+date: 2025-03-26
 ---
 We know too much for our own good. 
 Knowledge is power. So the more you know, the better no?

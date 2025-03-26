@@ -1,5 +1,5 @@
 ---
-date: 25.03.26
+date: 2025-03-26
 ---
 I used to think typing out notes into digital note-taking apps was in almost every way superior to writing things out by hand.
 
